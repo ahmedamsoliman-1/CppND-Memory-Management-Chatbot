@@ -11,8 +11,4 @@ file(GLOB project_SRCS src/*.cpp)
 
 add_executable(membot ${project_SRCS})
 target_link_libraries(membot ${wxWidgets_LIBRARIES})
-<<<<<<< HEAD
 target_include_directories(membot PRIVATE ${wxWidgets_INCLUDE_DIRS})
-=======
-target_include_directories(membot PRIVATE ${wxWidgets_INCLUDE_DIRS})
->>>>>>> 75a6aa5d6e1515afcebdc01ba043e0ca15e26061
