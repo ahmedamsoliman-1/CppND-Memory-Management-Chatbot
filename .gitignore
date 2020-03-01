@@ -1,6 +1,6 @@
-# /build
-# /lib
-# .exe
-# .out
+/build
+/lib
+.exe
+.out
 .vscode
 /.vscode
