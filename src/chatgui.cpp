@@ -136,7 +136,13 @@ ChatBotPanelDialog::~ChatBotPanelDialog()
     //// STUDENT CODE
     ////
 
+<<<<<<< HEAD
     //delete _chatLogic;
+=======
+
+
+    delete *_chatLogic;
+>>>>>>> 77e95a0b2d7aaf53f944bbd78d91e5b588fe6296
 
     ////
     //// EOF STUDENT CODE
