@@ -11,7 +11,8 @@ GraphNode::~GraphNode()
     //// STUDENT CODE
     ////
 
-    delete _chatBot; 
+    //_chatBot instance created as row pointer! delete use to delete pointer created with new!
+    //delete _chatBot; 
 
     ////
     //// EOF STUDENT CODE
