@@ -115,6 +115,12 @@ ChatBot& ChatBot::operator=(ChatBot&& other)
     return *(this);
 } 
 
+
+// ChatLogic::ChatLogic* getChatLogic()
+// {
+//      return std::move(_chatLogic);
+// }
+
 ////
 //// EOF STUDENT CODE
 
