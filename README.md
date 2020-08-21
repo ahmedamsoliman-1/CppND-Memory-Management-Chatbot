@@ -10,6 +10,7 @@ In this project you will analyze and modify the program. Although the program ca
 
 Your goal is to use the course knowledge to optimize the ChatBot program from a memory management perspective. There are a total of five specific tasks to be completed, which are detailed below.
 
+
 ## Dependencies for Running Locally
 * cmake >= 3.11
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
